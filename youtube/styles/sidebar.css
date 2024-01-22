@@ -1,0 +1,93 @@
+.sidebar{
+  background-color: white;
+  position: fixed;
+  top:56px;
+  bottom:0px;
+  left:0px;
+  width:72px ;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 18px;
+  padding-bottom: 60px;
+}
+
+.home-icon{
+  width: 25px;
+  height: 25px;
+}
+
+.explore-icon{
+  width: 25px;
+  height: 25px;
+}
+
+.subscriptions-icon{
+  width: 25px;
+  height: 25px;
+}
+
+.originals-icon{
+  width: 25px;
+  height: 25px;
+}
+
+.youtube-music-icon{
+  width: 25px;
+  height: 25px;
+}
+
+.library-icon{
+  width: 25px;
+  height: 25px;
+}
+.home-button{
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  height: 72px;
+}
+
+.explore-button{
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  height: 72px;
+}
+
+.subscriptions-button{
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  height: 72px;
+}
+
+.originals-button{
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  height: 72px;
+}
+
+.youtube-music-button{
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  height: 72px;
+}
+
+.library-button{
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  height: 72px;
+}
+
+.sidebar-text{
+  font-family: Arial, sans-serif;
+  font-size: 10px;
+  
+}
+
+
